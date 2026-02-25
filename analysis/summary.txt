@@ -1,0 +1,4 @@
+Total Episodes: 500
+Final Average Reward (Last 50): 7254.43
+Max Reward: 13801.59
+Min Reward: 218.53
